@@ -1,7 +1,7 @@
 # Fraude
 
 ## Introdução
-GitHub preparado para guardar os dados e análises usando o conjunto de dados Talking Data na análise de cliques fraudulentos em propaganda.
+GitHub preparado para guardar os dados e análises usando o conjunto de dados Talking Data na análise de cliques fraudulentos em propaganda. Esse é um dos Projetos da Formação Ciência de Dados da Data Science Academy.
 
 Os dados originais (do Kaggle) possuem um tamanho de cerca de 7 GB para treino e mais 800 mb para teste e excederam consideravelmente a capacidade da minha máquina de trabalhar com eles. Como alternativa usei o train_sample.csv (que possui 100.000 obs e cerca de 3,6 mb). Mesmo com ele, as análises ficaram relativamente lentas.
 
